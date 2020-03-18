@@ -1,4 +1,4 @@
-# frontend
+# 毕业设计 教务管理系统 前端
 
 ## Project setup
 ```
